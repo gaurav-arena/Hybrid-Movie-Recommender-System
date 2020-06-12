@@ -1,0 +1,2 @@
+# Hybrid-Movie-Recommender-System
+The overall objective is to build a Movie Recommendation system which is a Hybrid Recommender system. The steps will include implementing a few recommendation algorithms such as content based and collaborative filtering separately and then combining them to build our final hybrid recommender system. The final system recommends movies to a particular user based on the estimated ratings that it had internally calculated for that user and thus will have the quality of being more personalized and tailored towards particular users. 
